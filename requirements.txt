@@ -1,0 +1,6 @@
+flask
+gunicorn
+langchain-core
+langchain-google-genai
+langgraph
+google-generativeai
